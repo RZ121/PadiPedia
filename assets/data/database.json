@@ -1,0 +1,160 @@
+{
+    "hama" : [
+        {
+            "kode" : "H1",
+            "nama" : "Putih",
+            "latin": "Nyumphula depunctalis",
+            "gejala": "G1",
+            "gambar": "putih.jpg"
+        },
+        {
+            "kode" : "H2",
+            "nama" : "Trip Padi",
+            "latin" : "Trips oryzae",
+            "gejala": "G2",
+            "gambar": "trip padi.jpg"
+        },
+        {
+            "kode" : "H3",
+            "nama" : "Ulat Tentara",
+            "latin" : "Pseudaletia-unipuncta",
+            "gejala": "G3",
+            "gambar": "ulat tentara.jpg"
+        },
+        {
+            "kode" : "H4",
+            "nama" : "Ganjur",
+            "latin" : "Pachydiplosis oryzae",
+            "gejala": "G4",
+            "gambar": "ganjur.jpg"
+        },
+        {
+            "kode" : "H5",
+            "nama" : "Uret atau Kuuk",
+            "latin" : "Melolontha vulgaris F",
+            "gejala": "G5",
+            "gambar": "uret.jpg"
+        },
+        {
+            "kode" : "H6",
+            "nama" : "Orong-orong",
+            "latin" : "Gryllotalpa africana",
+            "gejala": "G6",
+            "gambar": "orong-orong.jpg"
+        },
+        {
+            "kode" : "H7",
+            "nama" : "Wereng Cokelat",
+            "latin" : "Nilaparvata lugens Stal",
+            "gejala": "G7",
+            "gambar": "wereng cokelat.png"
+        },
+        {
+            "kode" : "H8",
+            "nama" : "Wereng Hijau",
+            "latin" : "Nephotettix",
+            "gejala": "G8",
+            "gambar": "wereng hijau.jpg"
+        },
+        {
+            "kode" : "H9",
+            "nama" : "Walang Sangit",
+            "latin" : "Leptocoriza acuta Thumb",
+            "gejala": "G9",
+            "gambar": "walang sangit.jpg"
+        },
+        {
+            "kode" : "H10",
+            "nama" : "Kepik Hijau",
+            "latin" : "Nezara viridula",
+            "gejala": "G10",
+            "gambar": "kepik hijau.jpg"
+        },
+        {
+            "kode" : "H11",
+            "nama" : "Penggerek batang padi",
+            "latin" : "Tryporyza innotata WLK",
+            "gejala": "G11",
+            "gambar": "penggerek batang.jpg"
+        },
+        {
+            "kode" : "H12",
+            "nama" : "Tikus",
+            "latin" : "Rattus argentiventer",
+            "gejala": "G12",
+            "gambar": "tikus.jpg"
+        },
+        {
+            "kode" : "H13",
+            "nama" : "Burung Emprit",
+            "latin" : "Lonchura lencogastriodes H & M",
+            "gejala": "G13",
+            "gambar": "burung emprit.jpg"
+        }
+    ],
+    "gejala" : {
+            "G1" : [
+                "Terlihat bercak-bercak berwarna putih, berupa garis atau titik-titik",
+                "Biasanya terdapat tabung atau gulungan daun padi sebagai sarang pelindung",
+                "Kantung atau tabung gulungan daun berisi air"
+            ],
+            "G2": [
+                "Daun tergulung dan berubah warna menjadi kuning sampai kemerah-merahan",
+                "Pertumbuhan bibit terhambat",
+                "Beberapa gabah tidak berisi"
+            ],
+            "G3" : [
+                "Hanya tersisa tulang-tulang daun",
+                "Kadang terlihat potongan tangkai malai"
+            ],
+            "G4" : [
+                "Pertumbuhan padi terhenti",
+                "Terbentul bisul berbentuk pipa",
+                "Tunas gelembungnya tidak dapat berbunga dan warna hijau kekuningan"
+            ],
+            "G5" : [
+                "Bibit berubah warna menjadi kekuningan",
+                "Bibit layu dan mudah dicabut",
+                "Bibit rebah"
+            ],
+            "G6" : [
+                "Mula-mula daun mengalami perubahan warna",
+                "Tanaman padi menjadi layu bahkan ada yang roboh",
+                "Tanaman mudah dicabut"
+            ],
+            "G7" : [
+                "Berubah warna menjadi kekuning-kuningan, kemudian mengering",
+                "Sekelompok tanaman kelihatan terbakar (hopper burn)",
+                "Kerdil Rumput"
+            ],
+            "G8" : [
+                "Daun ditumbuhi cendawan jelaga",
+                "Daunnya kering",
+                "Kerdil dan daun berwarna kuning kecokelatan",
+                "Tunas sedikit, waktu berbunga tertunda",
+                "Malai kecil-kecil"
+            ],
+            "G9" : [
+                "Daun terdapat bercak-bercak bekas isapan oleh nimfa walang sangit",
+                "Pada buah padi terdapat bintik-bintik hitam"
+            ],
+            "G10" : [
+                "Batang terdapat bekas tusukan",
+                "Pada buah padi nampak noda bekas isapan kepik",
+                "pertumbuhan tanaman terganggu"
+            ],
+            "G11" : [
+                "Pucuk tanaman padi menjadi layu, kering, serta kuning kemerah-merahan",
+                "Pucuk mudah dicabut",
+                "Daun mulai mengering"
+            ],
+            "G12" : [
+                "Banyak padi yang roboh",
+                "Tampak botak-botak bekas serangan tikus"
+            ],
+            "G13" : [
+                "Tangkai padi rusak, patah, sisa biji padi berjatuhan",
+                "Burung berkeliaran disekitar tanaman padi"
+            ]
+        }
+}
