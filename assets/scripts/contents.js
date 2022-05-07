@@ -52,3 +52,21 @@ if(cardList){
     });
 }
 
+//Menampilkan alert hasil diagnosa (sementara)
+function showDiagnoseResult(kodeHama){
+    fetch("../assets/data/database.json")
+    .then(response => {
+        return response.json();
+    })
+    .then(data => {
+        let idx = 0;
+        for(el of data["hama"]){
+            if(el["kode"] == kodeHama){
+                break;
+            }
+            idx++;
+        }
+        const hama = data["hama"][idx];
+        alert(`Diagnosa Hama :\nNama : ${hama["nama"]}\nLatin : ${hama["latin"]}`);
+    });
+}

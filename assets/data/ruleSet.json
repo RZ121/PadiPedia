@@ -1,0 +1,109 @@
+{
+    "set1" : [
+        {
+            "kode" : "R1",
+            "gejala" : {
+                "GD" : "GD1"
+            },
+            "hama" : "H1"
+        },
+        {
+            "kode" : "R2",
+            "gejala" : {
+                "GA" : "GA1",
+                "GD" : "GD2",
+                "GU" : "GU1"
+            },
+            "hama" : "H2"
+        },
+        {
+            "kode" : "R3",
+            "gejala" : {
+                "GB" : "GB1",
+                "GD" : "GD3"
+            },
+            "hama" : "H3"
+        },
+        {
+            "kode" : "R4",
+            "gejala" : {
+                "GB" : "GB2",
+                "GU" : "GU2"
+            },
+            "hama" : "H4"
+        },
+        {
+            "kode" : "R5",
+            "gejala" : {
+                "GA" : "GA2",
+                "GD" : "GD4"
+            },
+            "hama" : "H5"
+        },
+        {
+            "kode" : "R6",
+            "gejala" : {
+                "GD" : "GD5",
+                "GU" : "GU3"
+            },
+            "hama" : "H6"
+        },
+        {
+            "kode" : "R7",
+            "gejala" : {
+                "GB" : "GB3",
+                "GU" : "GU4"
+            },
+            "hama" : "H7"
+        },
+        {
+            "kode" : "R8",
+            "gejala" : {
+                "GB" : "GB4",
+                "GD" : "GD6",
+                "GU" : "GU5"
+            },
+            "hama" : "H8"
+        },
+        {
+            "kode" : "R9",
+            "gejala" : {
+                "GB" : "GB5",
+                "GD" : "GD7"
+            },
+            "hama" : "H9"
+        },
+        {
+            "kode" : "R10",
+            "gejala" : {
+                "GA" : "GA3",
+                "GB" : "GB6",
+                "GU" : "GU6"
+            },
+            "hama" : "H10"
+        },
+        {
+            "kode" : "R11",
+            "gejala" : {
+                "GU" : "GU7"
+            },
+            "hama" : "H11"
+        },
+        {
+            "kode" : "R12",
+            "gejala" : {
+                "GA" : "GA4",
+                "GU" : "GU8"
+            },
+            "hama" : "H12"
+        },
+        {
+            "kode" : "R13",
+            "gejala" : {
+                "GB" : "GB7",
+                "GU" : "GU9"
+            },
+            "hama" : "H13"
+        }
+    ]
+}

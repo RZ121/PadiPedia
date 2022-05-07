@@ -156,5 +156,60 @@
                 "Tangkai padi rusak, patah, sisa biji padi berjatuhan",
                 "Burung berkeliaran disekitar tanaman padi"
             ]
+        },
+        "cara merusak" : {
+            "CM1" : [
+                "Ulat makan daging daun tanaman padi",
+                "Mula-mula kerusakan berupa titik-titik, kemudian memanjang sejajar daun",
+                "Ulat menggulung daun padi sehingga terbentuk tabung"
+            ],
+            "CM2": [
+                "Menyobek jaringan batang",
+                "Menghisap cairan di dalam batang",
+                "Memakan daun dan menghisap cairan daun"
+            ],
+            "CM3" : [
+                "Ulat makan helai daun",
+                "Tangkai malai di rusak"
+            ],
+            "CM4" : [
+                "Larva yang baru menetas bergerak ke arah titik tumbuh memakan dan merusak",
+                "Saat menjadi pupa merusak ujung tabung tanaman"
+            ],
+            "CM5" : [
+                "Merusak akar",
+                "Kemudian memakan pangkal batang padi"
+            ],
+            "CM6" : [
+                "Merusak dan makan akar padi yang masih muda",
+                "Merusak pangkal padi"
+            ],
+            "CM7" : [
+                "Merusak tanaman padi dengan mengisap cairan batang tanaman",
+                "Penyerangan dilakukan pada sekelompok tanaman padi",
+                "Menyebarkan virus kerdil rumput (Grassy stunt)"
+            ],
+            "CM8" : [
+                "Merusak daun dengan mengisap cairan daun",
+                "Pada bekas kerusakan di tumbuhi cendawan jelaga",
+                "Menyebarkan virus yang mengakibatkan tugro, kerdil kuning (yellow dwarf)"
+            ],
+            "CM9" : [
+                "Mengisap cairanbuah padi yang masih masak susu",
+                "Buah menjadi hampa, berkerut, warna coklat, rasa tidak enak"
+            ],
+            "CM10" : [
+                "Mengisap bagian batang padi hingga buah/biji padi"
+            ],
+            "CM11" : [
+                "Larva yang baru menetas menuju pelepah daun",
+                "Ulat menembus pelepah daun dan menggerek jaringan pembuluh batang"
+            ],
+            "CM12" : [
+                "Mengerat batang atau makan biji padi"
+            ],
+            "CM13" : [
+                "Burung berkelompok mendatangi area sawah padi yang hamper dipanen"
+            ]
         }
 }
