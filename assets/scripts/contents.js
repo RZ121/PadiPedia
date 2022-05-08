@@ -53,7 +53,7 @@ if(cardList){
 }
 
 //Menampilkan alert hasil diagnosa (sementara)
-function showDiagnoseResult(kodeHama){
+function showDiagnoseResult(kodeHama,nilaiKepastian){
     fetch("../assets/data/database.json")
     .then(response => {
         return response.json();
@@ -67,6 +67,6 @@ function showDiagnoseResult(kodeHama){
             idx++;
         }
         const hama = data["hama"][idx];
-        alert(`Diagnosa Hama :\nNama : ${hama["nama"]}\nLatin : ${hama["latin"]}`);
+        alert(`Diagnosa Hama :\nNama : ${hama["nama"]}\nLatin : ${hama["latin"]}\nNilai Kemungkinan : ${nilaiKepastian}%`);
     });
 }

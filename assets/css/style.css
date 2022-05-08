@@ -194,6 +194,15 @@ li{
     margin-bottom: 10px;
     margin-left: 7px;
 }
+.label-cf{
+    width: fit-content;
+    margin-top: 10px;
+    margin-right: 12px;
+}
+.input-cf{
+    padding: 10px;
+    margin-left: 7px;
+}
 .button-form-section{
     width: 100%;
     padding: 20px;
