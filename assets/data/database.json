@@ -90,6 +90,13 @@
             "latin" : "Lonchura lencogastriodes H & M",
             "gejala": "G13",
             "gambar": "burung emprit.jpg"
+        },
+        {
+            "kode" : "Unknown",
+            "nama" : "Unknown",
+            "latin" : "Unknown",
+            "gejala": "Unknown",
+            "gambar": "Unknown"
         }
     ],
     "gejala" : {
